@@ -4,5 +4,5 @@
 3. Check versions —> nvm —version , node —version 
 4. Use a partial node versionas default —> nvm use v12.16.1
 5. Removing a node version —> nvm list, nvm uninstall v11.10.1
-    npm install -g aws-cdk
-     cdk --version
+6.npm install -g aws-cdk
+7. cdk --version
