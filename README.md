@@ -12,4 +12,5 @@ npm install -g typescript
 
 mkdir my-project
 cd my-project
+
 cdk init app --language typescript
