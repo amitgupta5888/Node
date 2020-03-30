@@ -6,3 +6,10 @@
 5. Removing a node version —> nvm list, nvm uninstall v11.10.1
 6.npm install -g aws-cdk
 7. cdk --version
+
+npm install -g typescript
+
+
+mkdir my-project
+cd my-project
+cdk init app --language typescript
